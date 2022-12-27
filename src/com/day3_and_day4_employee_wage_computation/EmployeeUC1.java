@@ -1,4 +1,4 @@
-package com.day_3_employee_wage_computation;
+package com.day3_and_day4_employee_wage_computation;
 
 public class EmployeeUC1 {
     /*
