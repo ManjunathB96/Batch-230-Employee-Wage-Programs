@@ -43,11 +43,11 @@
 }</component>
   <component name="RunManager" selected="Application.EmployeeUC7">
     <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day_3_employee_wage_computation.Employee" />
+      <option name="MAIN_CLASS_NAME" value="com.day3_and_day4_employee_wage_computation.Employee" />
       <module name="Batch-230 Employee Wage Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.day_3_employee_wage_computation.*" />
+          <option name="PATTERN" value="com.day3_and_day4_employee_wage_computation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,11 +56,11 @@
       </method>
     </configuration>
     <configuration name="EmployeeUC1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day_3_employee_wage_computation.EmployeeUC1" />
+      <option name="MAIN_CLASS_NAME" value="com.day3_and_day4_employee_wage_computation.EmployeeUC1" />
       <module name="Batch-230 Employee Wage Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.day_3_employee_wage_computation.*" />
+          <option name="PATTERN" value="com.day3_and_day4_employee_wage_computation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,11 +69,11 @@
       </method>
     </configuration>
     <configuration name="EmployeeUC2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day_3_employee_wage_computation.EmployeeUC2" />
+      <option name="MAIN_CLASS_NAME" value="com.day3_and_day4_employee_wage_computation.EmployeeUC2" />
       <module name="Batch-230 Employee Wage Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.day_3_employee_wage_computation.*" />
+          <option name="PATTERN" value="com.day3_and_day4_employee_wage_computation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,11 +82,11 @@
       </method>
     </configuration>
     <configuration name="EmployeeUC7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day_4_employee_wage_computation.EmployeeUC7" />
+      <option name="MAIN_CLASS_NAME" value="com.day_8_employee_wage_computation.EmployeeUC7" />
       <module name="Batch-230 Employee Wage Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.day_4_employee_wage_computation.*" />
+          <option name="PATTERN" value="com.day_8_employee_wage_computation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
